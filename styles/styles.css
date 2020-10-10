@@ -1,6 +1,7 @@
 @import "./normalize.min.css";
 
 @import "./global.css";
+@import "./animations.css";
 
 @import "./nav.css";
 @import "./hamburger.css";
