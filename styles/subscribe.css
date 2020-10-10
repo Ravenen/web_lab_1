@@ -50,4 +50,8 @@
   .subscribe__text {
     width: 100%;
   }
+
+  .subsсribe__heading {
+    line-height: 35px;
+  }
 }
