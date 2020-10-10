@@ -31,10 +31,6 @@
   margin: 1%;
 }
 
-.feedback__message:nth-child(1) {
-  border: 2px solid #F53838;
-}
-
 .feedback__message-top {
   display: flex;
   justify-content: flex-start;
